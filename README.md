@@ -1,11 +1,12 @@
 ## Oii Eu sou o Cauã Marques, desenvolvedor full stack !
-- 🌱 Eu estou estudando atualmente JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...    
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+<p align="center">Estudante autônamo de Sistemas. Atualmente trabalho com JavaScript, HTML, CSS, Node e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+
+
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
